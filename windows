@@ -1,0 +1,49 @@
+# Random Windows Related Domains
+# Includes unathorised connections made by a windows 10 machine
+# that may break other unrelated things.
+# Last Modified: 2024-01-03
+
+# Probably Tracking & Spyware
+
+0.0.0.0 client.wns.windows.com
+0.0.0.0 licensing.mp.microsoft.com
+0.0.0.0 msedge.api.cdp.microsoft.com
+0.0.0.0 2.tlu.dl.delivery.mp.microsoft.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 go.microsoft.com
+0.0.0.0 g.live.com
+0.0.0.0 checkappexec.microsoft.com
+0.0.0.0 geover.prod.do.dsp.mp.microsoft.com
+0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
+0.0.0.0 www.msftconnecttest.com
+0.0.0.0 dmd.metaservices.microsoft.com
+
+# MSEdge Related
+
+0.0.0.0 fp.msedge.net
+0.0.0.0 s-ring.msedge.net
+0.0.0.0 config.edge.skype.com
+0.0.0.0 l-ring.msedge.net
+0.0.0.0 k-ring.msedge.net
+0.0.0.0 wac-ring.msedge.net
+0.0.0.0 msedge.api.cdp.microsoft.com
+
+# Unknown
+
+0.0.0.0 cp601.prod.do.dsp.mp.microsoft.com
+0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com
+0.0.0.0 d02164aa5c0fa2b90522ddc745b1997d.azr.footprintdns.com
+0.0.0.0 562770491f187e22080b28c86975d661.nrb.footprintdns.com
+0.0.0.0 fp2e7a.wpc.phicdn.net
+0.0.0.0 prod.balrog.prod.cloudops.mozgcp.net
+0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
+0.0.0.0 x1.c.lencr.org
+0.0.0.0 r3.o.lencr.org
+
+# Potentially Breaking
+
+0.0.0.0 pti.store.microsoft.com
+0.0.0.0 slscr.update.microsoft.com
+0.0.0.0 www.bing.com
+0.0.0.0 r.bing.com
+0.0.0.0 login.live.com
