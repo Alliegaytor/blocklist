@@ -1,0 +1,26 @@
+# Main Hosts File - Alliegaytor
+# Last Modified: 2024-01-03
+
+# Fixes
+# Fix Space Engineers Crash by blocking telemetry
+0.0.0.0 gate195.keenswh.com
+
+# Privacy, Tracking, Advertising
+# Amazon
+0.0.0.0 affiliationjs.s3.amazonaws.com
+0.0.0.0 amazonaax.com
+0.0.0.0 amazonclix.com
+
+# Twitter / X
+0.0.0.0 advertising.twitter.com
+0.0.0.0 x.com
+
+# Telstra
+0.0.0.0 tapp.telstra.com.mylocal
+0.0.0.0 tapp.telstra.com
+
+# Tradingview
+0.0.0.0 telemetry.tradingview.com
+0.0.0.0 tv-dlive.tradingview.com
+0.0.0.0 news-headlines.tradingview.com
+

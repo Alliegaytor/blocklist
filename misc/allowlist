@@ -1,0 +1,12 @@
+# Domain Allowance Exceptions
+# Allow commonly blocked domains
+# Last Modified: 2024-01-03
+
+# OSM ID editor
+cdn.jsdelivr.net
+
+# Discord data export
+click.discord.com
+
+# Mozilla telemetry
+# incoming.telemetry.mozilla.org
