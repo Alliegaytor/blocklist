@@ -1,7 +1,7 @@
 # Random Windows Related Domains
 # Includes unathorised connections made by a windows 10 machine
 # that may break other unrelated things.
-# Last Modified: 2024-02-17
+# Last Modified: 2024-02-20
 
 # Probably Tracking & Spyware
 
@@ -41,4 +41,3 @@
 #0.0.0.0 slscr.update.microsoft.com # windows update
 0.0.0.0 www.bing.com
 0.0.0.0 r.bing.com
-0.0.0.0 login.live.com
