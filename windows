@@ -1,7 +1,7 @@
 # Random Windows Related Domains
 # Includes unathorised connections made by a windows 10 machine
 # that may break other unrelated things.
-# Last Modified: 2024-02-20
+# Last Modified: 2024-08-08
 
 # Probably Tracking & Spyware
 
@@ -38,6 +38,7 @@
 # Potentially Breaking
 
 0.0.0.0 pti.store.microsoft.com
-#0.0.0.0 slscr.update.microsoft.com # windows update
-0.0.0.0 www.bing.com
 0.0.0.0 r.bing.com
+
+# Absolutely breaking
+#0.0.0.0 slscr.update.microsoft.com # windows update
