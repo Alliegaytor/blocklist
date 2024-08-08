@@ -1,5 +1,5 @@
 # Main Hosts File - Alliegaytor
-# Last Modified: 2024-01-03
+# Last Modified: 2024-08-08
 
 # Fixes
 # Fix Space Engineers Crash by blocking telemetry
@@ -13,11 +13,15 @@
 
 # Twitter / X
 0.0.0.0 advertising.twitter.com
-0.0.0.0 x.com
 
 # Telstra
 0.0.0.0 tapp.telstra.com.mylocal
 0.0.0.0 tapp.telstra.com
+
+# Android / Apps
+0.0.0.0 connectivitycheck.gstatic.com
+0.0.0.0 detectportal.firefox.com
+0.0.0.0 doseapp.io
 
 # Tradingview
 0.0.0.0 telemetry.tradingview.com
