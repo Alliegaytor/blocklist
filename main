@@ -22,9 +22,13 @@
 0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 detectportal.firefox.com
 0.0.0.0 doseapp.io
+0.0.0.0 jabczyk.com
 
 # Tradingview
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 tv-dlive.tradingview.com
 0.0.0.0 news-headlines.tradingview.com
+
+# Misc
+0.0.0.0 example.org
 
