@@ -1,5 +1,5 @@
 # Main Hosts File - Alliegaytor
-# Last Modified: 2024-08-08
+# Last Modified: 2025-01-19
 
 # Fixes
 # Fix Space Engineers Crash by blocking telemetry
@@ -30,6 +30,12 @@
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 tv-dlive.tradingview.com
 0.0.0.0 news-headlines.tradingview.com
+
+# Grafana
+0.0.0.0 stats.grafana.org
+
+# Influxdb
+0.0.0.0 telemetry.influxdata.com
 
 # Misc
 0.0.0.0 example.org
