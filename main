@@ -37,6 +37,9 @@
 # Influxdb
 0.0.0.0 telemetry.influxdata.com
 
+# Ninjakiwi
+0.0.0.0 analytics.ninjakiwi.com
+
 # Misc
 0.0.0.0 example.org
 
