@@ -1,45 +1,57 @@
 # Main Hosts File - Alliegaytor
-# Last Modified: 2025-01-19
+# Last Modified: 2025-02-09
+# Please note that this list may break things that I haven't tested
+# (e.g: chromium browsers, stock android), use at your own peril.
 
 # Fixes
-# Fix Space Engineers Crash by blocking telemetry
+## Fix Space Engineers Crash by blocking telemetry
 0.0.0.0 gate195.keenswh.com
 
 # Privacy, Tracking, Advertising
-# Amazon
+## Google
+0.0.0.0 safebrowsing.googleapis.com
+### **staging**
+0.0.0.0 optimizationguide-pa.googleapis.com
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 update.googleapis.com
+0.0.0.0 content-autofill.googleapis.com
+
+## Amazon
 0.0.0.0 affiliationjs.s3.amazonaws.com
 0.0.0.0 amazonaax.com
 0.0.0.0 amazonclix.com
 
-# Twitter / X
+## Twitter / X
 0.0.0.0 advertising.twitter.com
 
-# Telstra
+## Telstra
 0.0.0.0 tapp.telstra.com.mylocal
 0.0.0.0 tapp.telstra.com
 
-# Android / Apps
+## Android / Apps
 0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 detectportal.firefox.com
 0.0.0.0 doseapp.io
 0.0.0.0 jabczyk.com
 0.0.0.0 sentry.io
 0.0.0.0 bcmls2.glpals.com
+0.0.0.0 sentry.tools.element.io
 
-# Tradingview
+## Tradingview
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 tv-dlive.tradingview.com
 0.0.0.0 news-headlines.tradingview.com
 
-# Grafana
+## Grafana
 0.0.0.0 stats.grafana.org
 
-# Influxdb
+## Influxdb
 0.0.0.0 telemetry.influxdata.com
 
-# Ninjakiwi
+## Ninjakiwi
 0.0.0.0 analytics.ninjakiwi.com
 
 # Misc
+## Random Pings
 0.0.0.0 example.org
 
