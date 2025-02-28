@@ -1,5 +1,5 @@
 # Main Hosts File - Alliegaytor
-# Last Modified: 2025-02-09
+# Last Modified: 2025-03-28
 # Please note that this list may break things that I haven't tested
 # (e.g: chromium browsers, stock android), use at your own peril.
 
@@ -10,9 +10,8 @@
 # Privacy, Tracking, Advertising
 ## Google
 0.0.0.0 safebrowsing.googleapis.com
-### **staging**
 0.0.0.0 optimizationguide-pa.googleapis.com
-0.0.0.0 fonts.googleapis.com
+0.0.0.0 fonts.googleapis.com # breaks some sites
 0.0.0.0 update.googleapis.com
 0.0.0.0 content-autofill.googleapis.com
 
@@ -50,6 +49,9 @@
 
 ## Ninjakiwi
 0.0.0.0 analytics.ninjakiwi.com
+
+## Firefox
+0.0.0.0 incoming.telemetry.mozilla.org
 
 # Misc
 ## Random Pings
